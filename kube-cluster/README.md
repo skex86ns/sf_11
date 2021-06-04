@@ -1,3 +1,4 @@
+```
 [skex86ns@vm-centos7 kube-cluster]$ ansible-playbook -i hosts kube-dependencies.yml 
 
 PLAY [all] **************************************************************************************************************************************************************************************************************************************
@@ -95,4 +96,4 @@ master                     : ok=2    changed=1    unreachable=0    failed=0    s
 worker1                    : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
 [skex86ns@vm-centos7 kube-cluster]$ 
-
+```
