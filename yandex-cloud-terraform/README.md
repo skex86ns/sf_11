@@ -1,3 +1,4 @@
+```
 [skex86ns@vm-centos7 yandex-cloud-terraform]$ terraform -v
 Terraform v0.15.4
 on linux_amd64
@@ -240,4 +241,4 @@ external_ip_address_vm_2 = "84.201.173.68"
 internal_ip_address_vm_1 = "192.168.10.14"
 internal_ip_address_vm_2 = "192.168.10.26"
 [skex86ns@vm-centos7 yandex-cloud-terraform]$ 
-
+```
